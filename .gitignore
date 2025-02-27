@@ -1,0 +1,6 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+firebase-credentials.json
+package-lock.json
+package.json
